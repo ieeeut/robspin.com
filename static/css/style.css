@@ -11,12 +11,11 @@ html, body {
 }
 
 html {
-  background: red;
   animation: omgwtfbbq 5s infinite linear;
 }
 
 #rob {
-  animation: spinningrob 2s linear infinite;
+  animation: spinningrob 2s infinite linear;
   border-radius: 50%;
   border: 3px solid black;
   width: 100%;
@@ -33,7 +32,6 @@ html {
     transform: rotate(360deg);
   }
 }
-
 
 @keyframes omgwtfbbq {
   0% {
